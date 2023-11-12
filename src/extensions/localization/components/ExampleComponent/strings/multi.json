@@ -1,0 +1,9 @@
+{
+    "#INFO":" Load multiple languages from a single file",
+    "en":{
+        "addedInMulti":"addedInMulti en"
+    },
+    "fr":{
+        "addedInMulti":"addedInMulti fr"
+    }
+}
